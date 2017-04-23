@@ -1,1 +1,5 @@
 *.pyc
+mysite/bin/**
+mysite/include/**
+mysite/lib/**
+mysite/local/**
